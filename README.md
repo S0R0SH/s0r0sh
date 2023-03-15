@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+<img align="center" src="https://user-images.githubusercontent.com/59034956/225281292-64e07b9f-cfb0-450c-b774-81532efa25ae.svg">
+
 
 <!--
 **S0R0SH/s0r0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
