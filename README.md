@@ -3,6 +3,10 @@
 <img align="center" src="https://user-images.githubusercontent.com/59034956/225281292-64e07b9f-cfb0-450c-b774-81532efa25ae.svg">
 
 <h2 align="center">Hi 👋 IM Mr.Soroush ... Here To seek knowledge 🤖<h2>
+  <p align="center">LOOOL</p></h2>
+  <h2 align="center">🤖</h2>
+  
+  ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 <!--
 **S0R0SH/s0r0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
