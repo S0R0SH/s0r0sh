@@ -2,7 +2,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/59034956/225281292-64e07b9f-cfb0-450c-b774-81532efa25ae.svg">
 
-<h2 align="center">Hi 👋 IM Mr.Soroush ... Here To seek knowledge 🤖<h2>
+<h2 align="center">Hi 👋 IM Mr.Soroush ... Here To seek knowledge 🤖</h2>
   <h2 align="center">🔭 I’m currently working on Witsml 2.0 and 1.4.1 + ETP</h2>
   <p align="center">⚡ Can u help me About those ?</p></h2>
   
